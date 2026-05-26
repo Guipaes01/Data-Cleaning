@@ -34,7 +34,7 @@ Praticar conceitos de:
 
 ## 📁 Arquivos
 
-Cleaning_Data_Cafe.ipynb
-dirty_cafe_sales.csv
-cafe_sales_clean.csv
+Cleaning_Data_Cafe.ipynb  
+dirty_cafe_sales.csv  
+cafe_sales_clean.csv  
 
